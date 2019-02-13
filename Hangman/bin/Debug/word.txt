@@ -1,0 +1,13 @@
+file
+edit
+format
+view
+help
+hangman
+bin
+debug
+devel
+work
+csharp
+copy
+move

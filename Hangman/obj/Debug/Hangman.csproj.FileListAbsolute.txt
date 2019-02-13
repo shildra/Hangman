@@ -1,7 +1,6 @@
 d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\bin\Debug\Hangman.exe.config
 d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\bin\Debug\Hangman.exe
 d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\bin\Debug\Hangman.pdb
-d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\obj\Debug\Hangman.csprojAssemblyReference.cache
 d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\obj\Debug\Hangman.Hangman.resources
 d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\obj\Debug\Hangman.Properties.Resources.resources
 d:\Devel\Working\CSharp\WinForm\Hangman\Hangman\obj\Debug\Hangman.csproj.GenerateResource.cache

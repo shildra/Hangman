@@ -74,7 +74,8 @@ namespace Hangman
                     int k = wordMgr.getMissCount();
                     lblIncorrect.Text += txtLetter.Text[0] + " ";
                     txtHnagman.Text = hangmanList[k];
-
+                    lblMsg.Text = "Sorry, There is no '" + txtLetter.Text[0] + "' in the word";
+                    lblMsg.Visible = true;
                     if (k >= 7)
                     {
                         isRun = false;
